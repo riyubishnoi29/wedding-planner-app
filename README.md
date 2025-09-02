@@ -26,3 +26,6 @@ The app allows users to register/login, manage wedding checklists, explore venue
    ```bash
    git clone https://github.com/riyubishnoi29/wedding-planner-app.git
    cd wedding-planner-app
+
+## 🎥 Demo Video
+👉 [Click here to watch](https://drive.google.com/file/d/1ihlozpJ3etBF6XSQ-RKERJjI7iQctVq8/view?usp=drivesdk)

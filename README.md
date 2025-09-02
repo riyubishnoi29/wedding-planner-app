@@ -1,16 +1,28 @@
-# wedding_planner_app
+# Wedding Planner App 🎉
 
-A new Flutter project.
+A simple **wedding planner mobile app** built with Flutter as part of an assignment.  
+The app allows users to register/login, manage wedding checklists, explore venues, and filter them by budget & capacity.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- User Registration/Login
+- Wedding Checklist (add, edit, complete tasks)
+- Venue Listing (with budget & capacity filter)
+- Modern UI with smooth navigation
+- Budget Calculator & Guest List
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- Flutter (Dart)
+- IDE: VS Code
+- Data: Dummy JSON / Local List
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/riyubishnoi29/wedding-planner-app.git
+   cd wedding-planner-app

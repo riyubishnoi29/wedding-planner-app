@@ -24,11 +24,11 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white, // white rakho taki image clean lage
+      backgroundColor: Colors.white,
       body: Center(
         child: Image.asset(
-          "assets/images/hand-image.jpg", // <- tumhari image ka path
-          fit: BoxFit.cover, // poori screen cover karegi
+          "assets/images/hand-image.jpg",
+          fit: BoxFit.cover,
           height: double.infinity,
           width: double.infinity,
         ),
